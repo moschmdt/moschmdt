@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @moschmdt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Moritz Schmidt
 
-<!---
-moschmdt/moschmdt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&color=cornflowerblue)](https://www.linkedin.com/in/moschmdt)
+[![Twitter Badge](https://img.shields.io/twitter/follow/moschmdt?style=flat-square&logo=Twitter&logoColor=white&color=cornflowerblue)](https://twitter.com/moschmdt)
+
+Hi, I am a mechatronics engineer! I have done some lab work with LabView, control theory with MATLAB, like to visualize data with Python and document my results with LaTeX. 
